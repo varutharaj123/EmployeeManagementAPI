@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "7N5oUc6Y2bg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VarutharajJayaraj\\source\\repos\\EmployeeManagementAPI\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\fluentresponse\\0.1.0\\fluentresponse.0.1.0.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\fluentresponse.aspnetcore\\0.1.0\\fluentresponse.aspnetcore.0.1.0.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\fluentvalidation\\11.12.0\\fluentvalidation.11.12.0.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.17\\microsoft.aspnetcore.openapi.9.0.17.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\operationresult.core\\1.0.0\\operationresult.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\paginationkit\\1.1.0\\paginationkit.1.1.0.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\paginationkit.aspnetcore\\1.1.0\\paginationkit.aspnetcore.1.1.0.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\system.text.json\\8.0.6\\system.text.json.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

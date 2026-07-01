@@ -1,0 +1,199 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EmployeeManagement.Application/1.0.0": {
+        "dependencies": {
+          "EmployeeManagement.Domain": "1.0.0",
+          "FluentResponse.AspNetCore": "0.1.0",
+          "Microsoft.AspNetCore.OpenApi": "9.0.17",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1"
+        },
+        "runtime": {
+          "EmployeeManagement.Application.dll": {}
+        }
+      },
+      "FluentResponse/0.1.0": {
+        "dependencies": {
+          "OperationResult.Core": "1.0.0",
+          "PaginationKit": "1.1.0",
+          "System.Text.Json": "8.0.6"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentResponse.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "FluentResponse.AspNetCore/0.1.0": {
+        "dependencies": {
+          "FluentResponse": "0.1.0",
+          "FluentValidation": "11.12.0",
+          "PaginationKit.AspNetCore": "1.1.0"
+        },
+        "runtime": {
+          "lib/net9.0/FluentResponse.AspNetCore.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "FluentValidation/11.12.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.12.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/9.0.17": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.6.17"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "9.0.17.0",
+            "fileVersion": "9.0.1726.26907"
+          }
+        }
+      },
+      "Microsoft.OpenApi/1.6.17": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.6.17.0",
+            "fileVersion": "1.6.17.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.22.1": {},
+      "OperationResult.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/OperationResult.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PaginationKit/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/PaginationKit.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "PaginationKit.AspNetCore/1.1.0": {
+        "dependencies": {
+          "FluentValidation": "11.12.0",
+          "PaginationKit": "1.1.0"
+        },
+        "runtime": {
+          "lib/net9.0/PaginationKit.AspNetCore.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "System.Text.Json/8.0.6": {},
+      "EmployeeManagement.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "9.0.17",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1"
+        },
+        "runtime": {
+          "EmployeeManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentResponse/0.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vtJ2FEkLKl/zn2fLhbRjlzyHbx6RvGJSlK59J4xoUbuSThP39aBi959tkgC4uH/J4BNjCDgxZInmqwDVz8f8Wg==",
+      "path": "fluentresponse/0.1.0",
+      "hashPath": "fluentresponse.0.1.0.nupkg.sha512"
+    },
+    "FluentResponse.AspNetCore/0.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I3WN+pGrY0+pwXvwygOcL95WtIxKSICGS0SLj8Iii3XOPo768Me/mgaMN6fuaRrz4tI/MDEUUKTzm7vs6sMQcg==",
+      "path": "fluentresponse.aspnetcore/0.1.0",
+      "hashPath": "fluentresponse.aspnetcore.0.1.0.nupkg.sha512"
+    },
+    "FluentValidation/11.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wim3rI1nGZKO5S/lgJ0ZpD3W/uu1CECoJ8pETzC8av34ejr+jCDr4paKhSJRG0Ltcv8UjdxtYCynG+RUEfEUDA==",
+      "path": "fluentvalidation/11.12.0",
+      "hashPath": "fluentvalidation.11.12.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.OpenApi/9.0.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+zcqQ/JecNl4G1hC2mrJ8qDolJv17W3grToEqcGZGqa3cXWaCjA9KTdigU0WVK3LWI0TtOG/Q/joXRdKqFhB9Q==",
+      "path": "microsoft.aspnetcore.openapi/9.0.17",
+      "hashPath": "microsoft.aspnetcore.openapi.9.0.17.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/1.6.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Le+kehlmrlQfuDFUt1zZ2dVwrhFQtKREdKBo+rexOwaCoYP0/qpgT9tLxCsZjsgR5Itk1UKPcbgO+FyaNid/bA==",
+      "path": "microsoft.openapi/1.6.17",
+      "hashPath": "microsoft.openapi.1.6.17.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.22.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EfYANhAWqmWKoLwN6bxoiPZSOfJSO9lzX+UrU6GVhLhPub1Hd+5f0zL0/tggIA6mRz6Ebw2xCNcIsM4k+7NPng==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.22.1",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+    },
+    "OperationResult.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sdsc/pCeQoiFmjF2C8vOOa1KLPEO6YgvRpTM/QL/RTSb6bu38844YpO+lU6os1o1p22/Kef4Phr6MbhMVWLyFQ==",
+      "path": "operationresult.core/1.0.0",
+      "hashPath": "operationresult.core.1.0.0.nupkg.sha512"
+    },
+    "PaginationKit/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5KvvlUWGqu3rA9XIHmfToJ11gxOm3kx1+pCgpIoZux0mCZlUNHidvaY48VUbwjlNXktOSmlmYrKZ9QCZ3pMW4A==",
+      "path": "paginationkit/1.1.0",
+      "hashPath": "paginationkit.1.1.0.nupkg.sha512"
+    },
+    "PaginationKit.AspNetCore/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NgErpHpWbr6yUUlJPn3R06JImZqUEFER+rdglx1mTIZdcpfsr3/9ghVgVUSvtPySrRr7ADsLtUOPUitIxR95Ug==",
+      "path": "paginationkit.aspnetcore/1.1.0",
+      "hashPath": "paginationkit.aspnetcore.1.1.0.nupkg.sha512"
+    },
+    "System.Text.Json/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BvSpVBsVN9b+Y+wONbvJOHd1HjXQf33+XiC28ZMOwRsYb42mz3Q8YHnpTSwpwJLqYCMqM+0UUVC3V+pi25XfkQ==",
+      "path": "system.text.json/8.0.6",
+      "hashPath": "system.text.json.8.0.6.nupkg.sha512"
+    },
+    "EmployeeManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

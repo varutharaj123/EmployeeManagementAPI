@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWJO3IzpGZI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VarutharajJayaraj\\source\\repos\\EmployeeManagementAPI\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.17\\microsoft.aspnetcore.openapi.9.0.17.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\VarutharajJayaraj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
